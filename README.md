@@ -1,12 +1,11 @@
 <h1 align="center">  Bienvenido a mi Git 👋,  Soy  Nelly </h1>
 
 <hr>
+
 <br/>
  <p align="center"> <img  alt="Nelly-Castillo" src="https://komarev.com/ghpvc/?username=Nelly-Castillo&label=Vistas%20del%20perfil&color=0e75b6&style=flatt"  height = "25" width = "150"/>
  <br/>
 </p>
-
-
 
 ### Un poco de mi 😀
 Soy estudiante de Ingeniería de software en México.
@@ -42,13 +41,13 @@ Soy estudiante de Ingeniería de software en México.
 
 ### Mis estadísticas 📊:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es"  height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es"  height="220"/>
 </p>
 
- [![ Estadísticas de github de Nelly ](https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es )](https:://github.com/Nelly-Castillo/github-readme-estadísticas)
-<hr>
-
 ### Lenguajes más utilizados 💻:
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelly-Castillo&langs_count=10&layout=compact&theme=tokyonight&locale=es"  height="200"/>
 </p>
+<!--
+**Nelly-Castillo/Nelly-Castillo* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
