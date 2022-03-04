@@ -41,7 +41,14 @@ Soy estudiante de Ingeniería de software en México.
 <hr>
 
 ### Mis estadísticas 📊:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es"  height="200"/>
+</p>
 
  [![ Estadísticas de github de Nelly ](https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es )](https:://github.com/Nelly-Castillo/github-readme-estadísticas)
 <hr>
 
+### Lenguajes más utilizados 💻:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelly-Castillo&langs_count=10&layout=compact&theme=tokyonight&locale=es"  height="200"/>
+</p>
