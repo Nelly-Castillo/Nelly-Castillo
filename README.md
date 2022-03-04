@@ -6,6 +6,8 @@
  <p align="center"> <img  alt="Nelly-Castillo" src="https://komarev.com/ghpvc/?username=Nelly-Castillo&label=Vistas%20del%20perfil&color=0e75b6&style=flatt"  height = "25" width = "150"/>
  <br/>
 </p>
+<!--
+Creación de la rama 1 
 
 ### Un poco de mi 😀
 Soy estudiante de Ingeniería de software en México.
@@ -13,7 +15,7 @@ Soy estudiante de Ingeniería de software en México.
 - 🎵 Datos curiosos: Soy fan de Joji, me gusta dibujar.
 - 📚 Actualmente estoy estudiando en la  Universidad Autónoma de Querétaro. 
 - ⚡ Mis hobbies:
-  - Ver peliculas y series.
+  - Ver peliculas y series de terror, ciencia ficción, fantasía.
   - Leer. 
 - 💡 Estoy interesada en aprender todo lo que pueda. 
 <hr>
@@ -44,7 +46,7 @@ Soy estudiante de Ingeniería de software en México.
 <img src="https://github-readme-stats.vercel.app/api?username=Nelly-Castillo&show_icons=true&theme=tokyonight&hide_rank=%20true&locale=es"  height="220"/>
 </p>
 
-### Lenguajes más utilizados 💻:
+### Lenguajes 💻:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelly-Castillo&langs_count=10&layout=compact&theme=tokyonight&locale=es"  height="200"/>
