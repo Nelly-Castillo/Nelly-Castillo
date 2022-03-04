@@ -1,14 +1,15 @@
-### Bienvenido a mi Git 👋 Soy  Nelly,
+<h1 align="center">  Bienvenido a mi Git 👋 Soy  Nelly, </h1>
 
+<hr>
 Soy estudiante de Ingeniería de software en México.
 
-- Datos curios: Soy fan de Joji, megusta dibujar.
+- Datos curios: Soy fan de Joji, me gusta dibujar.
 - 📚 Actualmente estoy estudiando en la  Universidad Autónoma de Querétaro. 
 - Mis hobbies:
   - Ver peliculas y series.
   - Leer. 
 - 💡 Estoy interesada en aprender todo lo que pueda. 
-
+<hr>
 
 ### Puedes encontrarme 👇🏻:
 <p align="center">
@@ -18,6 +19,7 @@ Soy estudiante de Ingeniería de software en México.
 <a target="_blank" href="https://twitter.com/NellyCa30085913"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
+<hr>
 
 ### My skills include
 
