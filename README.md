@@ -1,11 +1,13 @@
 <h1 align="center">  Bienvenido a mi Git 👋 Soy  Nelly, </h1>
 
 <hr>
+
+### Un poco de mi 😀
 Soy estudiante de Ingeniería de software en México.
 
-- Datos curios: Soy fan de Joji, me gusta dibujar.
+- 🎵 Datos curiosos: Soy fan de Joji, me gusta dibujar.
 - 📚 Actualmente estoy estudiando en la  Universidad Autónoma de Querétaro. 
-- Mis hobbies:
+- ⚡ Mis hobbies:
   - Ver peliculas y series.
   - Leer. 
 - 💡 Estoy interesada en aprender todo lo que pueda. 
@@ -21,20 +23,13 @@ Soy estudiante de Ingeniería de software en México.
 </p>
 <hr>
 
-### My skills include
+### Mis conocimientos 🧠:
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	<img title="Python" alt="Python" src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=yellow" width="105" height="40" />
+	<img title="C Sharp" alt="C Sharp" src="https://img.shields.io/badge/-C%20Sharp-0D1117?style=rounded-square&logo=C%20Sharp&logoColor=blueviolet" width="125" height="40" />
+	<img title="Git" alt="Git" src="https://img.shields.io/badge/-Git-0D1117?style=rounded-square&logo=Git&logoColor=critical" width="90" height="40" />
+	<img title="Visual Studio" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=rounded-square&logo=VisualStudio&logoColor=blueviolet" width="155" height="40" />
 </p>
 
 <!--
