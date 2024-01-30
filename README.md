@@ -10,7 +10,6 @@
 ### Un poco de mi 😀
 Soy estudiante de Ingeniería de software en México.
 
-- 🎵 Datos curiosos: Soy fan de Joji, me gusta dibujar.
 - 📚 Actualmente estoy estudiando en la  Universidad Autónoma de Querétaro. 
 - ⚡ Mis hobbies:
   - Ver peliculas y series.
